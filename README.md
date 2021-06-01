@@ -38,3 +38,4 @@
 <p align="center"> 
 <a href="https://www.linkedin.com/in/pedro-henrique-863533207/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Pedro%20Henrique-9cf?style=flat&logo=linkedin"></a>
 
+![Snake animation](https://github.com/pedrinho81/pedrinho81/blob/output/github-contribution-grid-snake.svg)
