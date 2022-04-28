@@ -16,7 +16,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Mongo DB](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 - 🛢 &nbsp;
  ![Mongo DB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB)
  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
