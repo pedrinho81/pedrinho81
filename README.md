@@ -1,4 +1,4 @@
-<h2> <img  width=20% src="https://media4.giphy.com/media/OnnUZxcHsbBN6/giphy.gif?cid=ecf05e47247ywppsho5b3uzs9bh29hlgsdcm0ic94gf5fa26&rid=giphy.gif&ct=g">, I'm Pedro Henrique  <img width=3% src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
+<h2> <img  width=20% src="https://c.tenor.com/pvFJwncehzIAAAAM/hello-there-private-from-penguins-of-madagascar.gif">, I'm Pedro Henrique  <img width=3% src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
  </h2> 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -40,4 +40,3 @@
 <p align="center"> 
 <a href="https://www.linkedin.com/in/pedro-henrique-863533207/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Pedro%20Henrique-9cf?style=flat&logo=linkedin"></a>
 
-![Snake animation](https://github.com/pedrinho81/pedrinho81/blob/output/github-contribution-grid-snake.svg)
