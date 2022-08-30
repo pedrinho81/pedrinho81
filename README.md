@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing projects to learning.
 - 🎓 &nbsp; Studying Análise e desenvolvimento de Sistemas at Faculdade Imacula Conceição no Recife.
-- 💼 &nbsp; in search of an opportunity to learn and contribute to the job market.
+- 💼 &nbsp; Front-end dev at Melhor comunicação.
 - 🌱 &nbsp; Learning more about Web Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
