@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing projects to learning.
-- 🎓 &nbsp; Studying Análise e desenvolvimento de Sistemas at Faculdade Imacula Conceição no Recife.
+- 🎓 &nbsp; Graduate in Análise e desenvolvimento de Sistemas at Faculdade Imacula Conceição no Recife.
 - 💼 &nbsp; Front-end dev at Melhor comunicação.
 - 🌱 &nbsp; Learning more about Web Development.
 
