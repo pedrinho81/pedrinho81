@@ -4,7 +4,7 @@
 
 
 <ul>
- <li>Frontend Developer @<a href="">Melhor Comunicação</a></li>
+ <li>Frontend Developer @<a href="https://melhorcom.com.br">Melhor Comunicação</a></li>
  <li>Tecnólogo Análise e Desenvolvimento de Sistemas</li>
  <li>Apaixonado por desenvolvimento web</li>
  <li>Sempre com sede de aprendizado, conhecimento e experiência 💫</li>
@@ -20,6 +20,6 @@
 
 <a href="https://www.linkedin.com/in/pedro-henrique-863533207/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%233B82F6?style=flat&logo=linkedin"></a>
 <a href="https://pedro-henriquedev.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-ccc?style=flat"></a>
-<a href="mailto:1pedrohenri@gmail.com"><img alt="Linkedin" src="https://img.shields.io/badge/1pedrohenri@gmail.com-%23FF9800?style=flat&logo=gmail"></a>
+<a href="mailto:1pedrohenri@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/1pedrohenri@gmail.com-%23FF9800?style=flat&logo=gmail"></a>
 
 
