@@ -4,7 +4,7 @@
 
 
 <ul>
- <li>Frontend Developer @<a href="https://avantsoft.com.br">Avantsoft</a></li>
+ <li>Frontend Developer
  <li>Tecnólogo Análise e Desenvolvimento de Sistemas</li>
  <li>Apaixonado por desenvolvimento web e mobile.</li>
  <li>Sempre com sede de aprendizado, conhecimento e experiência 💫</li>
